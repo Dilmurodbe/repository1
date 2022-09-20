@@ -1,0 +1,490 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+header{
+width: 1938px;
+height: 3826px;
+background-color: black;
+}
+nav {
+display: flex;
+
+}
+.container{
+  width: 1200px;
+  position: absolute;
+
+  left: 451.12px;
+  top: 44.33px;
+  display: flex;
+  justify-content: space-around;
+}
+ .container h1{
+font-size: 19px;
+
+  color: #FFFFFF;
+}
+nav .container img{
+  position: absolute;
+
+  left: -5px;
+  top:-11px;
+}
+ .ota h2{
+  position: absolute;
+  width: 205px;
+  height: 39px;
+  left: 375px;
+  top: 268px;
+  color: #FFFFFF;
+
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 54px;
+  display: flex;
+  align-items: center;
+}
+.ota h3{
+  position: absolute;
+  width: 447px;
+  height: 136px;
+  left: 375px;
+  top: 334px;
+
+  font-family: 'NEXT ART';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 82px;
+  display: flex;
+  align-items: center;
+
+
+  color: #E4E4E4;
+}
+.ota h4{
+  position: absolute;
+  width: 430px;
+  height: 74px;
+  left: 375px;
+  top: 497px;
+
+  font-family: 'Arodora Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #E4E4E4;
+}
+
+header .bola{
+  position: absolute;
+  width: 465.18px;
+  height: 674px;
+  left: 1049.82px;
+  top: 113px;
+  z-index: 100;
+background: url(../img/image\ 1\ \(1\).png) no-repeat center center / cover;
+}
+header .yuz{
+position: absolute;
+width: 357px;
+height: 286px;
+left: 1034.82px;
+top: 80.82px;
+z-index: 100;
+background: url(../img/F72BBE6B-F7D4-4BD2-9EAF-F1FFAEF691F2\ 1.png);
+transform: rotate(-6.57deg);}
+.dumaloq{
+  position: absolute;
+  width: 575px;
+  height: 575px;
+  left: 986px;
+  top: 212.47px;
+border-radius: 50%;
+
+
+  border: 67px solid #00C4F0;
+  filter: drop-shadow(0px 0px 152px rgba(0, 196, 240, 0.42));
+}
+.a{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 982px;
+  top: 623px;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+  line-height: 41px;
+background-color:rgb(87, 86, 86);
+border-radius: 50%;
+
+
+}
+.a h1{
+  font-family: 'NEXT ART';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+color:
+#00C4F0;
+
+
+
+}
+
+.dim{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 1029px;
+  top: 269px;
+border-radius: 50%;
+  font-family: 'NEXT ART';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 41px;
+
+background-color: rgb(87, 86, 86);
+  display: flex;
+  align-items: center;
+justify-content: center;
+}
+.dim h5{
+  font-size: 36px;
+  color: #00C4F0;
+
+}
+.javo{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 1430px;
+  top: 237px;
+
+background-color: rgb(87, 86, 86);
+
+border-radius: 50%;
+  display: flex;
+  align-items: center;
+justify-content: center;
+
+}
+.javo h4{
+color:#00C4F0 ;
+
+  font-size: 36px;
+
+}
+.bib{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 948px;
+  top: 435px;
+
+background-color: rgb(87, 86, 86);
+
+border-radius: 50%;
+  display: flex;
+  align-items: center;
+justify-content: center;
+
+}
+.bib h6{
+color:#00C4F0 ;
+
+  font-size: 36px;
+}
+.contact{
+  position: absolute;
+  width: 200px;
+  height: 47px;
+  left: 375px;
+  top: 598px;
+  background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+  box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+  border-radius: 6px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.contact h2{
+  font-size: 18px;
+}
+section{
+  position: absolute;
+  width: 1920px;
+  height: 2111px;
+  left: 0px;
+  top: 787px;
+  background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+  display: flex;
+  justify-content: center;
+align-items: center;
+
+}
+.container1{
+  width: 70%;
+  height: 900px;
+  padding-top: 20px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+position: absolute;
+top: 113px;
+
+}
+.div1{
+margin: 0px 30px;
+  width: 270px;
+  height: 270px;
+
+  background: #2A2A2A;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.47);
+  border-radius: 29px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+}
+.div1 h3{
+  font-weight: 300;
+  font-size: 24px;
+padding-top: 70px;
+
+  color: #E4E4E4;
+}
+section .bey{
+width: 272px;
+height: 320px;
+position: absolute;
+
+left: 687px;
+top: 1073.91px;
+
+background: url(../img/Group\ 5.png);
+}
+section .bout{
+  position: absolute;
+  width: 246px;
+  height: 54px;
+  left: 1052px;
+  top: 1135px;
+
+
+  display: flex;
+  align-items: center;
+
+
+
+  color: #E4E4E4;
+}
+.bout h1{
+  font-size: 48px;
+  color: #FFFFFF;
+}
+section .dipo{
+  position: absolute;
+  width: 496px;
+  height: 700px;
+  left: 989px;
+  top: 1182px;
+
+  background: #2C2C2C;
+  border-radius: 14px;
+}
+.dipo h3{
+color: #FFFFFF;
+font-size: 20px;
+}
+section .container2{
+position: absolute;
+left: 63px;
+right: 63px;
+top: 36px;
+}
+.uka{
+  position: absolute;
+  width: 287px;
+  height: 427px;
+  left: 1473px;
+  top: 1356px;
+
+  background: url(../img/photo_2021-08-30_22-31-34.png);
+  box-shadow: 0px 0px 0px 6px #686868;
+}
+.aka{
+  position: absolute;
+  width: 250px;
+  height: 281px;
+  left: 751px;
+  top: 1682px;
+
+  background: url(../img/Group\ 4.png);
+  box-shadow: 0px 0px 0px 6px #686868;
+}
+.gig{
+  position: absolute;
+  width: 970px;
+  height: 600px;
+  left: 475px;
+  top: 3087px;
+  background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+  box-shadow: 0px 4px 15px rgba(27, 27, 27, 0.28);
+  border-radius: 29px;
+
+}
+.gig img{
+position: absolute;
+top: 50px;
+left: 50px;
+}
+.gig h6{
+  position: absolute;
+  width: 213px;
+  height: 29px;
+  left: 666px;
+  top: 82px;
+
+  font-family: 'Arodora Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+
+
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+}
+.fil{
+  position: absolute;
+  width: 268px;
+  height: 54px;
+  left: 826px;
+  top: 2965px;
+}
+ .fil h1{
+
+
+  font-family: 'NEXT ART';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 54px;
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+}
+.gig .container4{
+  position: absolute;
+  left: 624px;
+  right: 50px;
+  top: 136px;
+  }
+.container4 h1{
+  font-size: 18px;
+  color: #FFFFFF;
+}
+footer{
+  position: absolute;
+  width: 1920px;
+  height: 238px;
+  left: 0px;
+  top: 3826px;
+  background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+}
+footer h1{
+position: absolute;
+left: 572px;
+top: 50px;
+font-size: 18px;
+color: #FFFFFF;
+}
+footer h3{
+  position: absolute;
+  left: 572px;
+  color: #FFFFFF;
+  top: 89px;
+  font-size: 18px;
+  }
+  footer h4{
+    font-size: 18px;
+    position: absolute;
+    left: 572px;
+    top: 128px;
+    color: #FFFFFF;
+    }
+    footer h5{
+      font-size: 18px;
+      position: absolute;
+      left: 572px;
+      top: 167px;
+      color: #FFFFFF;
+      }
+      footer h6{
+        position: absolute;
+        left: 772px;
+        top: 50px;
+        font-size: 18px;
+        color: #FFFFFF;
+        }
+        footer h2{
+          position: absolute;
+          left: 772px;
+          color: #FFFFFF;
+          top: 89px;
+          font-size: 18px;
+          }
+          footer .bbb{
+            font-size: 18px;
+            position: absolute;
+            left: 772px;
+            top: 128px;
+            color: #FFFFFF;
+            }
+            footer .ddd{
+              font-size: 18px;
+              position:               absolute;
+left: 772px;
+              top: 167px;
+              color: #FFFFFF;
+              }
+              footer .aaa{
+                font-size: 18px;
+                position: absolute;
+                left: 1297px;
+                top: 71px;
+                color: #FFFFFF;
+                font-weight: 400;
+                }
+                footer img{
+
+                  position: absolute;
+                  left: 1220px;
+                  top: 60px;
+                  }
+ footer .ggg{
+  font-size: 18px;
+  position: absolute;
+  left: 1196px;
+  top: 171px;
+  color: #FFFFFF;
+ }
